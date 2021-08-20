@@ -36,7 +36,7 @@ to version control.
 
 # 9 - What does the command 'git add .' do?
 
-This command tells get to stage the files (and any changes in those files) in the working directory for version control.
+This command tells git to stage the files (and any changes in those files) in the working directory for version control.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 
